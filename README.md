@@ -1,1 +1,1 @@
-# Trabalho PrCC
+# Trabalho Prático de CC
