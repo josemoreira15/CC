@@ -1,0 +1,16 @@
+# DNS database file for domain messi
+messi. SOASP worldchamp.messi. 15500
+messi. SOAADMIN dns\.admin.messi. 15500
+messi. SOASERIAL 0117102022 15500
+messi. SOAREFRESH 14400 15500
+messi. SOARETRY 3600 15500
+messi. SOAEXPIRE 604800 15500
+messi. NS worldchamp.messi. 15500
+messi. NS mvp.messi. 15500
+messi. NS alien.messi. 15500
+worldchamp.messi. A 10.0.12.11:5500 15500
+mvp.messi. A 10.0.14.11 15500
+alien.messi. A 10.0.11.11 15500
+sp.messi. CNAME worldchamp.messi. 15500
+ss1.messi. CNAME mvp.messi. 15500
+ss2.messi. CNAME alien.messi. 15500

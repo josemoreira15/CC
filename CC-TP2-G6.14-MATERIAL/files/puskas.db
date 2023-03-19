@@ -1,0 +1,16 @@
+# DNS database file for domain zlatan
+zlatan. SOASP boss.zlatan. 86400
+zlatan. SOAADMIN dns\.admin.zlatan. 86400
+zlatan. SOASERIAL 10023415121 86400
+zlatan. SOAREFRESH 14400 86400
+zlatan. SOARETRY 5 86400
+zlatan. SOAEXPIRE 604800 86400
+zlatan. NS boss.zlatan. 86400
+zlatan. NS sweden.zlatan. 86400
+zlatan. NS kick.zlatan. 86400
+boss.zlatan. A 10.0.12.13:5501 86400
+sweden.zlatan. A 10.0.11.13 86400
+kick.zlatan. A 10.0.14.13 86400
+sp.zlatan. CNAME boss.zlatan. 86400
+ss1.zlatan. CNAME sweden.zlatan. 86400
+ss2.zlatan. CNAME kick.zlatan. 86400
