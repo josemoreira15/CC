@@ -1,1 +1,1 @@
-# Trabalho Prático de CC
+# Trabalho Prático de Comunicações por Computador
